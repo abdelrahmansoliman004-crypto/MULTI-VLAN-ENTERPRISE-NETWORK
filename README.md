@@ -83,3 +83,12 @@ To further harden the network topology, the following security features are plan
 - Administrative shutdown of all unused switch ports .
 - Integration of a **Syslog server** for centralized monitoring .
 - Application of password encryption and unauthorized-access MOTD banners .
+
+## 👥 Project Team & Supervision
+
+### 🎓 Project Team
+- **Team Member 1:** Abdulrahman Amr Abdullatif Suleiman
+- **Team Member 2:** Sarah Abdulrasoul Mohammed Ibrahim
+
+### 👨‍🏫 Project Supervisor
+- **Prepared for / Supervised by:** Eng. Mohamed HelmY
